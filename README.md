@@ -48,9 +48,9 @@ To approach a good solution the first thing I did was split the "Greed Algorith"
 <ol>
 <li>A candidate set, from which a solution is created</li>
 <li>A selection function, which chooses the best candidate to be added to the solution</li>
-<li>A selection function, which chooses the best candidate to be added to the solution</li>
-<li>A selection function, which chooses the best candidate to be added to the solution</li>
-<li>A selection function, which chooses the best candidate to be added to the solution</li>
+<li>A feasibility function, that is used to determine if a candidate can be used to contribute to a solution</li>
+<li>An objective function, which assigns a value to a solution, or a partial solution</li>
+<li>A solution function, which will indicate when we have discovered a complete solution</li>
 </ol>
 </code></pre>
 

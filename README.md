@@ -1,4 +1,4 @@
-traveling-graph-greedy-algorythm
+traveling-graph-greedy-algorithm
 ================================
 
 What is it
